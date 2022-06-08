@@ -1,2 +1,2 @@
 HA HA
-60 hours
+80 hours
